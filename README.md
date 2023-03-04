@@ -1,1 +1,5 @@
 # Industry-Protection-using-IOT
+The IOT industry protection system using Arduino is a system designed to protect industries from losses due to accidents using Internet of things. Gas leakages may lead to fires leading to huge industrial losses, also instant fire detection is needed in case of furnace blasts or other conditions. Also low lighting in industries may create improper work conditions increasing the probability of accidents. The system makes use of arduino to achieve this functionality. The system makes use of temperature sensing along with light ans gas sensing to detect fire, gas leakage as well as low lighting to avoid any industrial accidents and prevent losses.
+
+The system consists of light, gas and temperature sensors interfaced with arduino and LCD screen. The sensor data is constantly scanned to record values andcheck for fire, gas leakage or low light and then this data is transmitted online. The wifi module is used to achieve internet functionality. The IOTgecko server then displays this information online, to achieve the desired output
+
